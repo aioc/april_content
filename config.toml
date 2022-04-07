@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://orac2.info/april/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'April Camp Resources'
+theme = "hugo-book"
