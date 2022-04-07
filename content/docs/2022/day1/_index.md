@@ -18,6 +18,10 @@ weight: 1
 ## Session 2
 
 ### Alpha - Segment Trees 101
+> Prerequisite problems for going to Beta stream:
+> - Min Tree II
+> - Store Supplies
+
 [Slides](/april/2022/alphads1.pdf)
 
 ### Beta - Data Structres I
@@ -25,7 +29,12 @@ weight: 1
 
 ## Session 3
 
-### Alpha - Dynamic Programming
+### Alpha - Dynamic Programming I
+> Prerequisite problems for going to Beta stream:
+> - Startup Muster
+> - Oddjobs
+> - King Arthur (on ORAC 1)
+
 [Slides](/april/2022/alphadp1.pdf)
 
 ### Beta - Problem Session
