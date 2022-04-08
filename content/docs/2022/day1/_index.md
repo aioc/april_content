@@ -38,4 +38,4 @@ weight: 1
 [Slides](/april/2022/alphadp1.pdf)
 
 ### Beta - Problem Session
-*No slides*
+[Notes](/april/2022/betadp1_notes.pdf)
