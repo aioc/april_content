@@ -1,5 +1,5 @@
 ---
-title: "Day 1"
+title: "Day 2"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -9,7 +9,7 @@ weight: 1
 # bookSearchExclude: false
 ---
 
-# Day 1 - 8th April 2022
+# Day 2 - 9th April 2022
 
 ## Session 1
 
@@ -22,6 +22,8 @@ weight: 1
 [Slides](/april/2022/betagt1.pdf)
 
 ## Session 2 - Group Contest 1
+
+*Details to come...*
 
 ## Session 3 Part 1 - Group Contest 1 Debrief
 
