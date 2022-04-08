@@ -22,7 +22,7 @@ weight: 1
 > - Min Tree II
 > - Store Supplies
 
-[Slides](/april/2022/alphads1.pdf)
+[Slides](/april/2022/alphads1.pdf) | [Annotated Slides](/april/2022/alphads1_annotated.pdf)
 
 ### Beta - Data Structres I
 [Slides](/april/2022/betads1.pdf)
