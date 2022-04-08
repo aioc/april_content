@@ -15,7 +15,12 @@ weight: 1
 
 ### Alpha - Graph Theory I
 
-*Details to come...*
+> Prerequisite problems for going to Beta stream:
+> - More Highways
+> - Highway Travelling (with Bellman-Ford)
+> - Switch
+
+[Slides](/april/2022/alphagt1.pdf)
 
 ### Beta - Max Flow/Min Cut
 
