@@ -18,7 +18,7 @@ weight: 1
 > Prerequisite problems for going to Beta stream:
 > - More Highways
 > - Highway Travelling (with Bellman-Ford)
-> - Switch
+> - Konigsberg
 
 [Slides](/april/2022/alphagt1.pdf)
 
