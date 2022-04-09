@@ -27,6 +27,6 @@ weight: 1
 
 ## Session 2 - Problem Session
 
-*Details to come...*
+[Slides](/april/2022/jointps1.pdf)
 
 ## Session 3 - Free Period
