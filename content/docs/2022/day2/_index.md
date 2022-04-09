@@ -28,11 +28,9 @@ weight: 1
 
 ## Session 2 - Group Contest 1
 
-*Details to come...*
-
 ## Session 3 Part 1 - Group Contest 1 Debrief
 
-*Details to come...*
+[Notes](/april/2022/groupcontest1debrief.pdf)
 
 ## Session 3 Part 2
 
