@@ -26,6 +26,8 @@ weight: 1
 
 [Slides](/april/2022/betagt1.pdf)
 
+[Slides (annotated)](/april/2022/betagt1_annotated.pdf)
+
 ## Session 2 - Group Contest 1
 
 ## Session 3 Part 1 - Group Contest 1 Debrief
