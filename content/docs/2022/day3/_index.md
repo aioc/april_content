@@ -23,7 +23,7 @@ weight: 1
 
 ### Beta - Boolean Satisfiability
 
-*Details to come...*
+[Slides](/april/2022/betasat.pdf)
 
 ## Session 2 - Problem Session
 
