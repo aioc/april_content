@@ -43,5 +43,5 @@ weight: 1
 
 [Slides](/april/2022/alphamini-redacted.pdf)
 
-### Beta - Problem Session
-*Details to come...*
+### Beta - Approximation Algorithms
+[Slides](/april/2022/betamini.pdf)
