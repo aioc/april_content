@@ -40,6 +40,7 @@ weight: 1
 > - Joining Couples
 
 [Slides](/april/2022/alphamini-redacted.pdf)
+
 [Slides (unredacted)](/april/2022/alphamini.pdf)
 
 ### Beta - Approximation Algorithms
