@@ -21,6 +21,8 @@ weight: 1
 
 [Slides](/april/2022/alphads2-redacted.pdf)
 
+[Slides (unredacted)](/april/2022/alphads2.pdf)
+
 ### Beta - Boolean Satisfiability
 
 [Slides](/april/2022/betasat.pdf)
