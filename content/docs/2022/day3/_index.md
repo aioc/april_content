@@ -25,8 +25,12 @@ weight: 1
 
 [Slides](/april/2022/betasat.pdf)
 
+[Annotated Slides](/april/2022/betasat_annotated.pdf)
+
 ## Session 2 - Problem Session
 
 [Slides](/april/2022/jointps1.pdf)
+
+[Annotated Slides](/april/2022/jointps1_annotated.pdf)
 
 ## Session 3 - Free Period
