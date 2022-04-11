@@ -29,7 +29,7 @@ weight: 1
 
 ### Beta - Comp Geom
 
-*Details to come...*
+[Slides](/april/2022/compgeom101.pdf)
 
 ## Session 3
 
