@@ -15,7 +15,7 @@ weight: 1
 
 ### Alpha - Interactives and Intro to Randomised Algorithms
 
-*Details to come...*
+[Slides](/april/2022/alphainteractive.pdf)
 
 ### Beta - Interactives
 
@@ -25,7 +25,9 @@ weight: 1
 
 ### Alpha - SQRT Decomposition
 
-*Details to come...*
+[Slides](/april/2022/alphasqrt.pdf)
+
+[Slides (Annotated)](/april/2022/alphasqrt_annotated.pdf)
 
 ### Beta - Comp Geom
 
@@ -35,4 +37,4 @@ weight: 1
 
 ## Session 3
 
-*Details to come...*
+Codebreaker.
