@@ -31,6 +31,8 @@ weight: 1
 
 [Slides](/april/2022/compgeom101.pdf)
 
+[Slides (Annotated)](/april/2022/compgeom101annotated.pdf)
+
 ## Session 3
 
 *Details to come...*
